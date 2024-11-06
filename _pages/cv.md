@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my complete CV attached here.
+Please find my complete CV attached [here](https://drive.google.com/file/d/1UMg2NY60EN2WYhpE_ccNgOTd5WqOltM9/view?usp=drive_link).
 
 
 Education
