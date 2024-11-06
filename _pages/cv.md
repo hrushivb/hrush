@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my complete CV attached here.
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Information Science and Engineering, University of Florida, 2025 (expected)
+* M.S. in Computer Information Science and Engineering, University of Florida, 2021
+* B.S. in Electronics and Computer Engineering, JNTU, 2019
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Cyber-Physical Systems Security (CPSec) Lab, University of Florida (Jan 2021 - Present)
+  * Discovered and analyzed vulnerabilities in perception sensors, autonomous system signal processing pipelines, and their implications on downstream tasks.
+  * Studied and evaluated new physical world vulnerabilities in traffic sign and traffic light recognition systems used in autonomous vehicles.
+  * Designed novel defense strategies based on the invariable physical properties of the sensor that detect and mitigate the attack in an autonomous vehicle setting
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Davis Cancer Research Center, Radiation Oncology, UF Health (Dec 2020 - Aug 2021)
+  * Implemented dimensionality reduction algorithms to compute the displacement fields, used to deform CT images and track organ motion.
+  * Worked on the Triangulation method to track the deformed GTV surface and on a Deep texture classification model.
+  * Designed LSTM-based deep learning models to predict organ-specific abdominal motion with Cine-MRI.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Modern Artificial Intelligence and Learning Technologies Lab, University of Florida (May 2020 - Aug 2020)
+  * Worked on a project that involved building intelligent algorithms for transportation and smart cities.
+  * Implemented an algorithm that predicts the traffic patterns across intersections using real-time data received from LiDAR sensors.
+  * Constructed the residual data across intersections, performed clustering, and classified them into events.
 
-Publications
+Awards and Honors
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CSAW Applied Research Competition finalist, 2024 (Top 7.5%).
+* ETAS Best Short Paper Award, VehicleSec '23.
+* DENSO Best Demo Award, VehicleSec '23.
+* Student Travel Grant Award, USENIX '23.
+* Student Travel Grant Award, ACM WiSec '23.
+* Student Travel Grant Award, VehicleSec '23, '24.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student volunteer, Symposium on Vehicle Security and Privacy (VehicleSec 2023, 2024).
+* PC committee, poster and demo session, VehicleSec 2024.
+* More than five papers review experience as a delegation reviewer (USENIX, IEEE S&P)
