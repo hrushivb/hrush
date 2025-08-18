@@ -13,8 +13,7 @@ My primary research is in securing sensors and cyber-physical systems, with part
 
 
 
-<h2 id="news">What's happeing?</h2>
-<p><span style="font-size: 12px; color: #666666;">(scroll to see older news)</span></p>
+<h2 id="news">News</h2>
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
 <p><strong>[August 2025]</strong> Our work <a href="hhttps://www.usenix.org/conference/usenixsecurity25/presentation/onishi">Sound of Interference</a> is presented at USENIX 25. Congratulations to the team and great job Arifu!.</p>
