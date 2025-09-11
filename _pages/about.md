@@ -16,6 +16,8 @@ My primary research is in securing sensors and cyber-physical systems, with part
 <h2 id="news">News</h2>
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
+<p><strong>[September 2025]</strong> Our work uncovering three new vulnerabilities in thermal image perception systems is accepted to NDSS 26.</p>
+
 <p><strong>[August 2025]</strong> Our work <a href="hhttps://www.usenix.org/conference/usenixsecurity25/presentation/onishi">Sound of Interference</a> is presented at USENIX 25. Congratulations to the team and great job Arifu!.</p>
 
 <p><strong>[May 2025]</strong> Starting my summer internship at Toyota Infotech Labs, focusing on fine-tuning large language models for safety and trust.</p>
@@ -26,8 +28,8 @@ My primary research is in securing sensors and cyber-physical systems, with part
 
 <p><strong>[Feb 2025]</strong> I will be serving as the program committe member for VehicleSec 25 (Co-located with USENIX). Please consider submitting</p>
 
-<p><strong>[Jan 2025]</strong> Our demonstrating a novel elecromagnetic side-channel on digital microphones was accepted to USENIX 2025. Congratulations to the team!!</p>
+<p><strong>[Jan 2025]</strong> Our work demonstrating a novel elecromagnetic side-channel on digital microphones is accepted to USENIX 2025. Congratulations to the team!!</p>
 
-<p><strong>[Nov 2024]</strong> Our paper <a href="https://www.ndss-symposium.org/ndss-paper/invisible-reflections-leveraging-infrared-laser-reflections-to-target-traffic-sign-perception/">Invisible Reflections</a> was selected as the Applied Research Competition Finalist at CSAW '24 (Top 7%).</p></div>
+<p><strong>[Nov 2024]</strong> Our paper <a href="https://www.ndss-symposium.org/ndss-paper/invisible-reflections-leveraging-infrared-laser-reflections-to-target-traffic-sign-perception/">Invisible Reflections</a> is selected as the Applied Research Competition Finalist at CSAW '24 (Top 7%).</p></div>
 
 
