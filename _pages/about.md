@@ -16,9 +16,9 @@ My primary research is in securing sensors and cyber-physical systems, with part
 <h2 id="news">News</h2>
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-<p><strong>[September 2025]</strong> Our work uncovering three new vulnerabilities in thermal image perception systems is accepted to NDSS 26.</p>
+<p><strong>[Sep 2025]</strong> Our work uncovering three new vulnerabilities in thermal image perception systems is accepted to NDSS 26.</p>
 
-<p><strong>[August 2025]</strong> Our work <a href="hhttps://www.usenix.org/conference/usenixsecurity25/presentation/onishi">Sound of Interference</a> is presented at USENIX 25. Congratulations to the team and great job Arifu!.</p>
+<p><strong>[Aug 2025]</strong> Our work <a href="hhttps://www.usenix.org/conference/usenixsecurity25/presentation/onishi">Sound of Interference</a> is presented at USENIX 25. Congratulations to the team and great job Arifu!.</p>
 
 <p><strong>[May 2025]</strong> Starting my summer internship at Toyota Infotech Labs, focusing on fine-tuning large language models for safety and trust.</p>
 
