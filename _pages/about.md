@@ -22,9 +22,9 @@ My primary research is in securing sensors and cyber-physical systems, with part
 
 <p><strong>[May 2025]</strong> Starting my summer internship at Toyota Infotech Labs, focusing on fine-tuning large language models for safety and trust.</p>
 
-<p><strong>[April 2025]</strong> Successfully passed my Ph.D. prelims and am now a Ph.D. candidate! Thankful to my advisor, committe, and collaborators for their support.</p>
+<p><strong>[Apr 2025]</strong> Successfully passed my Ph.D. prelims and am now a Ph.D. candidate! Thankful to my advisor, committe, and collaborators for their support.</p>
 
-<p><strong>[March 2025]</strong> Grateful to be awarded the Gartner Group Graduate Fellowship by UF’s CISE Department.</p>
+<p><strong>[Mar 2025]</strong> Grateful to be awarded the Gartner Group Graduate Fellowship by UF’s CISE Department.</p>
 
 <p><strong>[Feb 2025]</strong> I will be serving as the program committe member for VehicleSec 25 (Co-located with USENIX). Please consider submitting</p>
 
