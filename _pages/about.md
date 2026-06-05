@@ -16,9 +16,23 @@ My primary research is in securing sensors and cyber-physical systems, with part
 <h2 id="news">News</h2>
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
-<p><strong>[Sep 2025]</strong> Our work uncovering three new vulnerabilities in thermal image perception systems is accepted to NDSS 26.</p>
+<p><strong>[April 2026]</strong> I received the <b>Gator Engineering Award in Professional Excellence</b>, the highest distinction for an engineering graduate at the University of Florida. Special thanks to my advisor Dr. Rampazzi for all the support.</p>
 
-<p><strong>[Aug 2025]</strong> Our work <a href="hhttps://www.usenix.org/conference/usenixsecurity25/presentation/onishi">Sound of Interference</a> is presented at USENIX 25. Congratulations to the team and great job Arifu!.</p>
+<p><strong>[April 2026]</strong> Our work revealing vulnerability in stereo cameras was directly accepted to ACM CCS 2026.</p>
+
+<p><strong>[Mar 2026]</strong> I successfully defended my PhD dissertation! Huge thanks to my advisor and the program committee!</p>
+
+<p><strong>[Mar 2026]</strong> Our work <a href="https://conf.researchr.org/program/secdev-2026/program-secdev-2026/">RepliGuard</a> led by Jennifer and Yungwoo is accepted to ACM SecDev 2026.</p>
+
+<p><strong>[Oct 2025]</strong> Our work demonstrating laser injection attack on traffic lights is accepted to ACM TCPS</p>
+
+
+<p><strong>[Sep 2025]</strong> Our work uncovering three new vulnerabilities in thermal image perception systems is accepted to NDSS 2026.</p>
+
+
+<p><strong>[Aug 2025]</strong> Our work on <a href="https://dl.acm.org/doi/pdf/10.1145/3736731.3746151">Reproducibility in security conferences</a> lead by Ozzy won the best paper award at ACM REP!</p>
+
+<p><strong>[Aug 2025]</strong> Our work <a href="hhttps://www.usenix.org/conference/usenixsecurity25/presentation/onishi">Sound of Interference</a> is presented at USENIX 25. Congratulations to the team and great job Arifu!</p>
 
 <p><strong>[May 2025]</strong> Starting my summer internship at Toyota Infotech Labs, focusing on fine-tuning large language models for safety and trust.</p>
 
