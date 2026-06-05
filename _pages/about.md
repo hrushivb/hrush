@@ -14,7 +14,7 @@ My primary research is in securing sensors and cyber-physical systems, with part
 
 
 <h2 id="news">News</h2>
-<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 400px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 
 <p><strong>[April 2026]</strong> I received the <b>Gator Engineering Award in Professional Excellence</b>, the highest distinction for an engineering graduate at the University of Florida. Special thanks to my advisor Dr. Rampazzi for all the support.</p>
 
